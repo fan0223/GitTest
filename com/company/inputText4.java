@@ -4,9 +4,9 @@ public class inputText4 {
     public static void main(String[] args) {
         //   顯示訊息
         java.util.Scanner sc = new java.util.Scanner(System.in);
-        System.out.println("請輸入A");
+        System.out.println("請輸入 A");
         double A = sc.nextDouble();
-        System.out.println("請輸入B");
+        System.out.println("請輸入 B");
         double B = sc.nextDouble();
         double Q = A +  B ;
         double W = A - B ;
